@@ -1,0 +1,4 @@
+echo 
+
+jupyter notebook
+echo.
